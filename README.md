@@ -33,16 +33,17 @@ Dự án này được tạo ra với mục đích:
 3. [Tác giả & Cảm ơn](#tác-giả--cảm-ơn)
 
 ## Cấu trúc dự án
-Data-Mining-For-Business-Analytics-In-Python/
-├── README.md
-├── data/                   # Thư mục chứa datasets
-├── 01_Data_Preprocessing/  # Tiền xử lý dữ liệu
-├── 02_Data_Exploration/    # Khám phá dữ liệu
-├── 03_Prediction_Classification/ # Phân loại và Dự đoán
-├── 04_Ensemble_Methods/    # Phương pháp Ensemble
-├── 05_Association_Rules/   # Luật kết hợp
-├── 06_Clustering/          # Phân cụm
-└── 07_Time_Series/         # Dự báo chuỗi thời gian
+
+- `Data-Mining-For-Business-Analytics-In-Python/`
+  - `README.md`
+  - `data/` - Thư mục chứa datasets
+  - `01_Data_Preprocessing/` - Tiền xử lý dữ liệu
+  - `02_Data_Exploration/` - Khám phá dữ liệu
+  - `03_Prediction_Classification/` - Phân loại và Dự đoán
+  - `04_Ensemble_Methods/` - Phương pháp Ensemble
+  - `05_Association_Rules/` - Luật kết hợp
+  - `06_Clustering/` - Phân cụm
+  - `07_Time_Series/` - Dự báo chuỗi thời gian
 
 ## Tác giả & Cảm ơn
 
